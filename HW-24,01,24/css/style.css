@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.shape {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+
+
+.rectangle {
+    
+    width: 200px;
+}
